@@ -23,7 +23,8 @@ Plug 'machakann/vim-highlightedyank'
 Plug 'tpope/vim-commentary'
 
 
-"" -- Map IDE actions to IdeaVim -- https://jb.gg/abva4t
+
+"" -- Map IDE actions to IdeaVim -- https://jb.gg/abva4t aoeu
 "" Map \r to the Reformat Code action
 "map \r <Action>(ReformatCode)
 
